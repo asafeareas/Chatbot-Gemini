@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "si3GExH34Ig=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Chatbot-Gemini\\Chatbot-Gemini\\Chatbot-Gemini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asafe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

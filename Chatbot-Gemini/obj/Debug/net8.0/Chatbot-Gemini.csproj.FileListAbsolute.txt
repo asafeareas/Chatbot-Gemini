@@ -1,0 +1,17 @@
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\bin\Debug\net8.0\Chatbot-Gemini.exe
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\bin\Debug\net8.0\Chatbot-Gemini.deps.json
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\bin\Debug\net8.0\Chatbot-Gemini.runtimeconfig.json
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\bin\Debug\net8.0\Chatbot-Gemini.dll
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\bin\Debug\net8.0\Chatbot-Gemini.pdb
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.csproj.AssemblyReference.cache
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.AssemblyInfoInputs.cache
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.AssemblyInfo.cs
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.csproj.CoreCompileInputs.cache
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-.9190B274.Up2Date
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.dll
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\refint\Chatbot-Gemini.dll
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.pdb
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\Chatbot-Gemini.genruntimeconfig.cache
+D:\Projetos\Chatbot-Gemini\Chatbot-Gemini\obj\Debug\net8.0\ref\Chatbot-Gemini.dll
